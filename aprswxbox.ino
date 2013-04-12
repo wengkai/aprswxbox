@@ -1,9 +1,8 @@
 
-
 /*
 APRS Weather Station
 coded by Yang Lei
-20120210
+20120412
 Beta 1.8
 */
 
