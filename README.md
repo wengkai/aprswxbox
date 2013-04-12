@@ -9,4 +9,4 @@ The DHT library is from AdaFruit [https://github.com/adafruit/DHT-sensor-library
 
 The BMP085 library is also from AdaFruit [https://github.com/adafruit/Adafruit-BMP085-Library](http://)
 
-For more information, see [http://www.yangl1996.com/?p=132](http://) (in Chinese)
+For more information, see [http://www.yangl1996.com/?p=132](http://www.yangl1996.com/?p=132) (in Chinese)
